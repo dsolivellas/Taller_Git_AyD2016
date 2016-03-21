@@ -1,4 +1,4 @@
 Completar por cada grupo
 
-Nombre del Grupo:<nombre>
+Nombre del Grupo: <nombre>
 Integrantes: <apellido, nombres - DNI>
